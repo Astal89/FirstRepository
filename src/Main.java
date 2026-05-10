@@ -10,6 +10,6 @@ public class Main {
     }
 
     public static void changeValue(Integer value){
-        value.
+        System.out.println(value);
     }
 }
